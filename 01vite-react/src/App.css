@@ -1,0 +1,44 @@
+/* Updated App.css */
+.app {
+  text-align: center;
+  padding: 20px;
+}
+
+.before-button {
+  margin-bottom: 20px;
+}
+
+.input-field {
+  width: 100%;
+  padding: 8px;
+  font-size: 16px;
+}
+
+.action-button {
+  padding: 12px 24px;
+  background: linear-gradient(45deg, #007BFF, #00BFFF); /* Gradient background in blue */
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.after-button {
+  margin-top: 20px;
+}
+
+.after-title {
+  color: #007BFF; /* Make lower h3 tag blue */
+  padding: 8px;
+}
+
+.displayed-text {
+  font-size: 1.5rem;
+  margin: 10px 0;
+  background: linear-gradient(45deg, #007BFF, #00BFFF); /* Gradient background in blue */
+  color: #fff;
+}
+
+.section-title {
+  font-size: 1.5rem;
+  margin: 10px 0;
+}
